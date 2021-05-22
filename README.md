@@ -31,9 +31,6 @@ If you’d like to get in touch, feel free to say hello through a Linkedin messa
   <a href="https://www.quora.com/profile/Raja-Rama-Mohan-Thavalam" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="rajaramtt" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/2575740/raja-rama-mohan-thavalam" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rajaramtt" height="30" width="40" />
-  </a>
   <a href="https://twitter.com/rajaramtt" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajaramtt" height="30" width="40" />
   </a>
