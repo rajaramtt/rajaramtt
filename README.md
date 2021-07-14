@@ -12,7 +12,7 @@ Having started my career as a LAMP Stack developer, After successfully developed
 I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in web technologies so that I can meet challenges with frameworks and tools well suited to the job at hand.
 </p>
 
-If you’d like to get in touch, feel free to say hello through a Linkedin message.
+If you’d like to get in touch, feel free to say hello through any of the social links below.
 
 <br/>
 
