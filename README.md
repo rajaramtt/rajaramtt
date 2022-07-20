@@ -1,7 +1,7 @@
 <h1 align="center">Raja Rama Mohan Thavalam</h1>
 
 <p>
-I'm a Full Stack Web Developer. I spend every day enthusiastically to learn new technologies, experimenting with Angular, Express.js, React, HTML, CSS, JavaScript, Bootstrap, and Material Design.
+I'm a Technical Lead. I spend every day enthusiastically to learn new technologies, experimenting with Angular, Express.js, React, HTML, CSS, JavaScript, Bootstrap, and Material Design.
 </p>
 
 <p>
