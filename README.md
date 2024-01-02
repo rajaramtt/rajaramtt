@@ -1,4 +1,4 @@
-<h1 align="center">Raja Rama Mohan Thavalam</h1>
+<h1 align="center">Raja Ram T</h1>
 
 <p>
 I'm a Technical Lead. I spend every day enthusiastically to learn new technologies, experimenting with Angular, Express.js, React, HTML, CSS, JavaScript, Bootstrap, and Material Design.
@@ -19,9 +19,9 @@ If you’d like to get in touch, feel free to say hello through any of the socia
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rajaramtt/" target="blank">
+<!--   <a href="https://www.linkedin.com/in/rajaramtt/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajaramtt" height="30" width="40" />
-  </a>
+  </a> -->
    <a href="https://medium.com/@rajaramtt" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rajaramtt" height="30" width="40" />
   </a>
@@ -31,9 +31,9 @@ If you’d like to get in touch, feel free to say hello through any of the socia
   <a href="https://www.quora.com/profile/Raja-Rama-Mohan-Thavalam" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="rajaramtt" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/rajaramtt" target="blank">
+<!--   <a href="https://twitter.com/rajaramtt" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajaramtt" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <br/>
